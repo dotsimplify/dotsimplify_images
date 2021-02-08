@@ -11,9 +11,9 @@ function App() {
       <Router>
         <div>
           <nav className="nav">
-            <a className="logo" href="/">
+            <Link className="logo" to="/">
               Dot Simplify Images
-            </a>
+            </Link>
             <ul className="nav-ul">
               <li className="nav-li">
                 <Link className="nav-link" to="/">
