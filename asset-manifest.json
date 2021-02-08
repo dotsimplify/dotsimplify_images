@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dotsimplify_images/static/css/main.7f7ecbe0.chunk.css",
+    "main.js": "/dotsimplify_images/static/js/main.c003e0be.chunk.js",
+    "main.js.map": "/dotsimplify_images/static/js/main.c003e0be.chunk.js.map",
+    "runtime-main.js": "/dotsimplify_images/static/js/runtime-main.5ea7edf2.js",
+    "runtime-main.js.map": "/dotsimplify_images/static/js/runtime-main.5ea7edf2.js.map",
+    "static/js/2.3adb482f.chunk.js": "/dotsimplify_images/static/js/2.3adb482f.chunk.js",
+    "static/js/2.3adb482f.chunk.js.map": "/dotsimplify_images/static/js/2.3adb482f.chunk.js.map",
+    "index.html": "/dotsimplify_images/index.html",
+    "static/css/main.7f7ecbe0.chunk.css.map": "/dotsimplify_images/static/css/main.7f7ecbe0.chunk.css.map",
+    "static/js/2.3adb482f.chunk.js.LICENSE.txt": "/dotsimplify_images/static/js/2.3adb482f.chunk.js.LICENSE.txt",
+    "static/media/home.9ee25ae8.svg": "/dotsimplify_images/static/media/home.9ee25ae8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ea7edf2.js",
+    "static/js/2.3adb482f.chunk.js",
+    "static/css/main.7f7ecbe0.chunk.css",
+    "static/js/main.c003e0be.chunk.js"
+  ]
+}
